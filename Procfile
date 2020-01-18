@@ -1,0 +1,1 @@
+web: gunicorn Customer_management.wgsi
